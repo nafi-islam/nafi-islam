@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Howdy, I’m Nafi!
 
-<!--
-**nafi-islam/nafi-islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Software Engineer focused on developing cutting edge, digital experiences.
 
-Here are some ideas to get you started:
+### 👍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡️ I study Electronics Engineering @ Texas A&M
+- 🏆 I organize hackathons at [TAMUhack](https://tamuhack.org/)
+- 🏎️ I love to talk about all things Formula 1
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
