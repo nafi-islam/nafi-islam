@@ -6,7 +6,7 @@ I am an aspiring Software Engineer focused on developing cutting edge, digital e
 
 - ⚡️ Studying Electronics Engineering @ Texas A&M
 - 🏆 Organizing hackathons at [TAMUhack](https://tamuhack.org/)
-- 🏎️ Probably watching Formula 1
+- 🏎️ Probably watching Formula 1...
 
 ### ✍️ Random Dev Quote
 
