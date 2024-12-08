@@ -1,6 +1,6 @@
 # 👋 Howdy, I’m Nafi!
 
-I am an aspiring Software Engineer focused on developing cutting edge, digital experiences.
+I am an impact-driven software engineer focused on developing cutting edge, digital experiences
 
 ### 👍 About Me
 
