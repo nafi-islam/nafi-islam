@@ -4,9 +4,9 @@ I am an impact-driven software engineer focused on developing cutting edge, digi
 
 ### 👍 About Me
 
-- ⚡️ Studying Electronics Engineering @ Texas A&M
-- 🏆 Organizing hackathons at [TAMUhack](https://tamuhack.org/)
-- 🏎️ Probably watching Formula 1...
+- 🗺️ Working on **[Journy](https://journy.us)**, a geography game where players connect U.S. states
+- ⚡️ Tinkering with electronics and hardware-driven side projects 
+- 🏆 Organized hackathons at [TAMUhack](https://tamuhack.org/)
 
 ### ✍️ Random Dev Quote
 
